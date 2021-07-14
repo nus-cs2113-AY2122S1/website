@@ -1189,3 +1189,60 @@ Missing reference in C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\d
 2021-07-09T14:44:25.559Z - info: Lazy website regeneration complete! Total build time: 0.537s
 2021-07-09T14:52:12.720Z - info: Website generation started at 10:52:10 pm
 2021-07-09T14:52:18.654Z - info: Building assets...
+2021-07-09T14:52:23.311Z - info: Assets built
+2021-07-09T14:52:23.312Z - info: Generating pages...
+2021-07-09T14:52:29.976Z - debug:  
+2021-07-09T14:52:29.984Z - debug:  
+2021-07-09T14:52:31.414Z - debug:  
+2021-07-09T14:52:31.448Z - debug:  
+2021-07-09T14:52:31.449Z - debug:  
+2021-07-09T14:52:31.449Z - debug:  
+2021-07-09T14:54:22.214Z - debug:  
+2021-07-09T14:54:37.220Z - debug:  
+2021-07-09T14:54:37.220Z - debug:  
+2021-07-09T14:54:43.044Z - info: Pages built
+2021-07-09T14:54:43.929Z - info: Site data built
+2021-07-09T14:54:43.930Z - info: Website generation complete! Total build time: 153.047s
+2021-07-09T14:54:43.930Z - info: Build success!
+2021-07-09T14:54:58.450Z - info: Deployed at https://nus-cs2113-ay2122s1.github.io/website!
+2021-07-09T15:47:47.886Z - info: Website generation (lazy) started at 11:47:43 pm
+2021-07-09T15:47:54.040Z - info: Building assets...
+2021-07-09T15:48:00.166Z - info: Assets built
+2021-07-09T15:48:00.166Z - info: Generating landing page...
+2021-07-09T15:48:01.932Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-09T15:48:02.729Z - info: Site data built
+2021-07-09T15:48:02.730Z - info: Website generation (lazy) complete! Total build time: 19.595s
+2021-07-09T15:48:03.547Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-09T15:48:03.547Z - info: Press CTRL+C to stop ...
+2021-07-09T15:48:04.321Z - info: [11:48:04 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2021-07-09T15:48:04.322Z - info: Synchronizing opened pages list before reload
+2021-07-09T15:48:04.322Z - info: No pages are currently opened
+2021-07-09T15:48:05.632Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-07-09T15:48:05.636Z - info: No pages needed to be rebuilt
+2021-07-09T15:50:08.397Z - info: [11:50:08 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2021-07-09T15:50:08.397Z - info: Synchronizing opened pages list before reload
+2021-07-09T15:50:08.397Z - info: Current opened pages, from most-to-least recent:
+2021-07-09T15:50:08.398Z - info: 1. index
+2021-07-09T15:50:09.528Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-07-09T15:50:09.531Z - info: Rebuilding 1 pages
+2021-07-09T15:50:10.978Z - info: Site data built
+2021-07-09T15:50:10.978Z - info: Pages rebuilt
+2021-07-09T15:50:10.978Z - info: Website regeneration complete! Total build time: 1.565s
+2021-07-09T15:50:11.862Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\timeline as some of its dependencies were changed since the last visit
+2021-07-09T15:50:15.335Z - info: Site data built
+2021-07-09T15:50:15.336Z - info: Lazy website regeneration complete! Total build time: 3.475s
+2021-07-09T15:52:12.307Z - info: Website generation started at 11:52:10 pm
+2021-07-09T15:52:18.189Z - info: Building assets...
+2021-07-09T15:52:23.713Z - info: Assets built
+2021-07-09T15:52:23.714Z - info: Generating pages...
+2021-07-09T15:52:32.722Z - debug:  
+2021-07-09T15:52:32.722Z - debug:  
+2021-07-09T15:52:32.723Z - debug:  
+2021-07-09T15:52:32.723Z - debug:  
+2021-07-09T15:52:32.724Z - debug:  
+2021-07-09T15:53:06.060Z - debug:  
+2021-07-09T15:53:48.962Z - info: Pages built
+2021-07-09T15:53:49.752Z - info: Site data built
+2021-07-09T15:53:49.752Z - info: Website generation complete! Total build time: 99.397s
+2021-07-09T15:53:49.752Z - info: Build success!
+2021-07-09T15:54:03.976Z - info: Deployed at https://nus-tic2002-2021.github.io/website!
