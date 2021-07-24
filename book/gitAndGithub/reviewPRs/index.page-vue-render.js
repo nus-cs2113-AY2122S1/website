@@ -5,10 +5,10 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white d-print-none",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can review PRs on GitHub")])])])])])}
@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Tools → Git and GitHub →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"reviewing-prs"}},[_c('span',{staticClass:"anchor",attrs:{"id":"reviewing-prs"}}),_c('span',[_v("Reviewing PRs")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"reviewing-prs"}},[_c('span',{staticClass:"anchor",attrs:{"id":"reviewing-prs"}}),_c('span',[_v("Reviewing PRs")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#reviewing-prs","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("The "),_c('em',[_v("PR review")]),_v(" stage is a dialog between the PR author and members of the repo that received the PR, in order to refine and eventually merge the PR.")])}
@@ -44,6 +44,6 @@ with(this){return _c('li',[_v("Type in an overall comment about the PR, if any. 
 with(this){return _c('li',[_v("Choose "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Approve")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Comment")]),_v(", or "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Request changes")]),_v(" option as appropriate and click on the "),_c('span',{staticClass:"btn btn-success pl-1 pr-1 pb-0 pt-0"},[_v("Submit review")]),_v(" button.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Thu, 15 Jul 2021, 22:13:46 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 24 Jul 2021, 12:43:15 GMT+8]")])])])}
 }];
   

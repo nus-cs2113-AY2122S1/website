@@ -5,10 +5,10 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white d-print-none",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can explain coupling")])])])])])}
@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Design → Design Fundamentals → Coupling →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"what"}},[_c('span',{staticClass:"anchor",attrs:{"id":"what"}}),_c('span',[_v("What")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"what"}},[_c('span',{staticClass:"anchor",attrs:{"id":"what"}}),_c('span',[_v("What")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#what","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_c('em',[_v("Coupling")]),_v(" is a measure of the degree of "),_c('em',[_v("dependence")])]),_v(" between components, classes, methods, etc. Low coupling indicates that a component is less dependent on other components. "),_c('strong',[_v("High coupling (aka "),_c('em',[_v("tight")]),_v(" coupling or "),_c('em',[_v("strong")]),_v(" coupling) is discouraged")]),_v(" due to the following disadvantages:")])}
@@ -26,6 +26,6 @@ with(this){return _c('p',[_c('strong',[_c('em',[_v("Coupling")]),_v(" is a measu
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("Maintenance is harder")]),_v(" because a change in one module could cause changes in other modules coupled to it (i.e. a ripple effect).")]),_v(" "),_c('li',[_c('strong',[_v("Integration is harder")]),_v(" because multiple components coupled with each other have to be integrated at the same time.")]),_v(" "),_c('li',[_c('strong',[_v("Testing and reuse of the module is harder")]),_v(" due to its dependence on other modules.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Thu, 15 Jul 2021, 22:13:46 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 24 Jul 2021, 12:43:15 GMT+8]")])])])}
 }];
   

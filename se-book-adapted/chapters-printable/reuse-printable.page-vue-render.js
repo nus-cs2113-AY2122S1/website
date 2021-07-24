@@ -5,19 +5,19 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white d-print-none",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"reuse"}},[_c('span',{staticClass:"anchor",attrs:{"id":"reuse"}}),_c('span',[_v("Reuse")])])])])}
+with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"reuse"}},[_c('span',{staticClass:"anchor",attrs:{"id":"reuse"}}),_c('span',[_v("Reuse")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#reuse","onclick":"event.stopPropagation()"}})])])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('small',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-print",attrs:{"aria-hidden":"true"}})]),_v(" This is a "),_c('strong',[_v("printer-friendly")]),_v(" version. It omits exercises, optional topics (i.e., four-star topics), and other extra content such as learning outcomes.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-2"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-2"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-2","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"introduction"}},[_c('span',{staticClass:"anchor",attrs:{"id":"introduction"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#introduction","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_v("Reuse is a major theme in software engineering practices. "),_c('strong',[_v("By reusing tried-and-tested components, the robustness of a new software system can be enhanced while reducing the manpower and time requirement.")]),_v(" Reusable components come in many forms; it can be reusing a piece of code, a subsystem, or a whole software.")])])])}
@@ -26,7 +26,7 @@ with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_v("
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_v("While you may be tempted to use many libraries/frameworks/platforms that seem to crop up on a regular basis and promise to bring great benefits, note that "),_c('strong',[_v("there are costs associated with reuse")]),_v(". Here are some:")]),_v(" "),_c('ul',[_c('li',[_v("The reused code "),_c('strong',[_v("may be an overkill")]),_v(" (think "),_c('em',[_v("using a sledgehammer to crack a nut")]),_v("), increasing the size of, and/or degrading the performance of, your software.")]),_v(" "),_c('li',[_v("The reused software "),_c('strong',[_v("may not be mature/stable enough")]),_v(" to be used in an important product. That means the software can change drastically and rapidly, possibly in ways that break your software.")]),_v(" "),_c('li',[_v("Non-mature software has the "),_c('strong',[_v("risk of dying off")]),_v(" as fast as they emerged, leaving you with a dependency that is no longer maintained.")]),_v(" "),_c('li',[_v("The license of the reused software (or its dependencies) "),_c('strong',[_v("restrict how you can use/develop your software")]),_v(".")]),_v(" "),_c('li',[_v("The reused software "),_c('strong',[_v("might have bugs, missing features, or security vulnerabilities")]),_v(" that are important to your product, but not so important to the maintainers of that software, which means those flaws will not get fixed as fast as you need them to.")]),_v(" "),_c('li',[_c('strong',[_v("Malicious code can sneak into your product")]),_v(" via compromised dependencies.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-3"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-3"}}),_c('span',[_v("APIs")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-3","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"apis"}},[_c('span',{staticClass:"anchor",attrs:{"id":"apis"}}),_c('span',[_v("APIs")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#apis","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("An "),_c('em',[_v("Application Programming Interface (API)")]),_v(" specifies the interface through which other programs can interact with a software component.")]),_v(" It is a contract between the component and its clients.")])}
@@ -35,6 +35,6 @@ with(this){return _c('p',[_c('strong',[_v("An "),_c('em',[_v("Application Progra
 with(this){return _c('p',[_v("When developing large systems, if you define the API of each component early, the development team can develop the components in parallel "),_c('span',{staticClass:"dimmed"},[_v("because the future behavior of the other components are now more predictable")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Thu, 15 Jul 2021, 22:13:46 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 24 Jul 2021, 12:43:15 GMT+8]")])])])}
 }];
   

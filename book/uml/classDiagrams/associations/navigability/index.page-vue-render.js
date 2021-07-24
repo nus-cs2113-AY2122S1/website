@@ -5,10 +5,10 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white d-print-none",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can interpret association navigabilities in class diagrams")])])])])])}
@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Tools → UML → Class Diagrams → Associations →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"navigability"}},[_c('span',{staticClass:"anchor",attrs:{"id":"navigability"}}),_c('span',[_v("Navigability")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"navigability"}},[_c('span',{staticClass:"anchor",attrs:{"id":"navigability"}}),_c('span',[_v("Navigability")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#navigability","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use arrowheads to indicate the navigability of an association.")])])}
@@ -26,6 +26,6 @@ with(this){return _c('p',[_c('strong',[_v("Use arrowheads to indicate the naviga
 with(this){return _c('p',[_c('strong',[_v("Navigability can be shown in class diagrams as well as object diagrams")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Thu, 15 Jul 2021, 22:13:46 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 24 Jul 2021, 12:43:15 GMT+8]")])])])}
 }];
   

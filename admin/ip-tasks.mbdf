@@ -644,10 +644,6 @@ Implementing the following increment (optional) can be help with the above.
 <include src="{{ tasks_file }}#heading_{{ step.id }}" trim inline /> {{ deadline_badge }}{{ grading_badge }}
 {% endif %}
 {%- endmacro %}
-
-{% macro get_xp_step_heading2() -%}
-<include src="../../admin/ip-tasks.mbdf#heading_create_pr_to_upstream" trim inline />
-{%- endmacro %}
 {#====================================================================================================================#}
 
 {% macro show_xp_step(number, step, tasks_file) %}

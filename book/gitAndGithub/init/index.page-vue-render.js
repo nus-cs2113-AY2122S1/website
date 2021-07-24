@@ -5,10 +5,10 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white d-print-none",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can create a local Git repo")])])])])])}
@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Tools → Git and GitHub →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"init-getting-started"}},[_c('span',{staticClass:"anchor",attrs:{"id":"init-getting-started"}}),_c('span',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("init")]),_v(": Getting started")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"init-getting-started"}},[_c('span',{staticClass:"anchor",attrs:{"id":"init-getting-started"}}),_c('span',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("init")]),_v(": Getting started")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#init-getting-started","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('span',{staticClass:"non-printable"},[_c('p',[_c('strong',[_v("0. Take a peek at the full picture(?)")]),_v(". Optionally, if you are the sort who prefers to have some sense of the full picture before you get into the nitty-gritty details, watch the video in the panel below:\n")])])}
@@ -32,6 +32,6 @@ with(this){return _c('p',[_c('strong',[_v("2. Next, initialize a repository.")])
 with(this){return _c('p',[_v("Create a directory for the repo (e.g., a directory named "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("things")]),_v(").")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Thu, 15 Jul 2021, 22:13:46 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 24 Jul 2021, 12:43:15 GMT+8]")])])])}
 }];
   

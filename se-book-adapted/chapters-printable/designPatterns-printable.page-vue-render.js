@@ -5,19 +5,19 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white d-print-none",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"software-design-patterns"}},[_c('span',{staticClass:"anchor",attrs:{"id":"software-design-patterns"}}),_c('span',[_v("Software design patterns")])])])])}
+with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"software-design-patterns"}},[_c('span',{staticClass:"anchor",attrs:{"id":"software-design-patterns"}}),_c('span',[_v("Software design patterns")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#software-design-patterns","onclick":"event.stopPropagation()"}})])])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('small',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-print",attrs:{"aria-hidden":"true"}})]),_v(" This is a "),_c('strong',[_v("printer-friendly")]),_v(" version. It omits exercises, optional topics (i.e., four-star topics), and other extra content such as learning outcomes.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-2"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-2"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-2","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"introduction"}},[_c('span',{staticClass:"anchor",attrs:{"id":"introduction"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#introduction","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("After repeated attempts at solving such problems, better solutions are discovered and refined over time. These solutions are known as design patterns, "),_c('strong',[_v("a term popularized by the seminal book")]),_v(" "),_c('a',{attrs:{"href":"https://en.wikipedia.org/wiki/Design_Patterns"}},[_c('strong',[_c('em',[_v("Design Patterns: Elements of Reusable Object-Oriented Software")]),_v(" by the so-called \"Gang of Four\" (GoF)")])]),_v(" written by Eric Gamma, Richard Helm, Ralph Johnson, and John Vlissides.")])}
@@ -26,7 +26,7 @@ with(this){return _c('p',[_v("After repeated attempts at solving such problems, 
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_v("The common format to describe a pattern consists of the following components:")]),_v(" "),_c('ul',[_c('li',[_c('strong',[_v("Context")]),_v(": The situation or scenario where the design problem is encountered.")]),_v(" "),_c('li',[_c('strong',[_v("Problem")]),_v(": The main difficulty to be resolved.")]),_v(" "),_c('li',[_c('strong',[_v("Solution")]),_v(": The core of the solution. It is important to note that the solution presented only includes the most general details, which may need further refinement for a specific context.")]),_v(" "),_c('li',[_c('strong',[_v("Anti-patterns")]),_v(" (optional): Commonly used solutions, which are usually incorrect and/or inferior to the Design Pattern.")]),_v(" "),_c('li',[_c('strong',[_v("Consequences")]),_v(" (optional): Identifying the pros and cons of applying the pattern.")]),_v(" "),_c('li',[_c('strong',[_v("Other useful information")]),_v(" (optional): Code examples, known uses, other related patterns, etc.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-3"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-3"}}),_c('span',[_v("Singleton pattern")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-3","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"singleton-pattern"}},[_c('span',{staticClass:"anchor",attrs:{"id":"singleton-pattern"}}),_c('span',[_v("Singleton pattern")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#singleton-pattern","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Context")])])}
@@ -50,7 +50,7 @@ with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_v("
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_c('strong',[_v("Pros:")])]),_v(" "),_c('ul',[_c('li',[_v("easy to apply")]),_v(" "),_c('li',[_v("effective in achieving its goal with minimal extra work")]),_v(" "),_c('li',[_v("provides an easy way to access the singleton object from anywhere in the code base")])]),_v(" "),_c('p',[_c('strong',[_v("Cons:")])]),_v(" "),_c('ul',[_c('li',[_v("The singleton object acts like a global variable that increases coupling across the code base.")]),_v(" "),_c('li',[_v("In testing, it is difficult to replace Singleton objects with stubs (static methods cannot be overridden).")]),_v(" "),_c('li',[_v("In testing, singleton objects carry data from one test to another even when you want each test to be independent of the others.")])]),_v(" "),_c('p',[_v("Given that there are some significant cons, it is recommended that you apply the Singleton pattern when, in addition to requiring only one instance of a class, there is a risk of creating multiple objects by mistake, and creating such multiple objects has real negative consequences.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-4"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-4"}}),_c('span',[_v("Facade pattern")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-4","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"facade-pattern"}},[_c('span',{staticClass:"anchor",attrs:{"id":"facade-pattern"}}),_c('span',[_v("Facade pattern")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#facade-pattern","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Context")])])}
@@ -65,6 +65,6 @@ with(this){return _c('p',[_v("Access to the component should be allowed without 
 with(this){return _c('p',[_c('strong',[_v("Solution")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Thu, 15 Jul 2021, 22:13:46 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 24 Jul 2021, 12:43:15 GMT+8]")])])])}
 }];
   

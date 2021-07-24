@@ -5,25 +5,25 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white d-print-none",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"integration"}},[_c('span',{staticClass:"anchor",attrs:{"id":"integration"}}),_c('span',[_v("Integration")])])])])}
+with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"integration"}},[_c('span',{staticClass:"anchor",attrs:{"id":"integration"}}),_c('span',[_v("Integration")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#integration","onclick":"event.stopPropagation()"}})])])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('small',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-print",attrs:{"aria-hidden":"true"}})]),_v(" This is a "),_c('strong',[_v("printer-friendly")]),_v(" version. It omits exercises, optional topics (i.e., four-star topics), and other extra content such as learning outcomes.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-2"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-2"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-2","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"introduction"}},[_c('span',{staticClass:"anchor",attrs:{"id":"introduction"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#introduction","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_c('strong',[_v("Combining parts of a software product to form a whole is called "),_c('em',[_v("integration")])]),_v(". It is also one of the most troublesome tasks and it rarely goes smoothly.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-3"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-3"}}),_c('span',[_v("Build Automation")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-3","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"build-automation"}},[_c('span',{staticClass:"anchor",attrs:{"id":"build-automation"}}),_c('span',[_v("Build Automation")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#build-automation","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Build automation tools automate the steps of the build process, usually by means of build scripts.")])])}
@@ -44,6 +44,6 @@ with(this){return _c('p',[_c('strong',[_v("An extreme application of build autom
 with(this){return _c('p',[_c('strong',[_v("A natural extension of CI is "),_c('em',[_v("Continuous Deployment (CD)")]),_v(" where the changes are not only integrated continuously, but also deployed to end-users at the same time.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Thu, 15 Jul 2021, 22:13:46 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 24 Jul 2021, 12:43:15 GMT+8]")])])])}
 }];
   

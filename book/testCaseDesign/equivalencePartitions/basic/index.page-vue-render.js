@@ -5,10 +5,10 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white d-print-none",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can apply EP for pure functions")])])])])])}
@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Quality Assurance → Test Case Design → Equivalence Partitions →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"basic"}},[_c('span',{staticClass:"anchor",attrs:{"id":"basic"}}),_c('span',[_v("Basic")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"basic"}},[_c('span',{staticClass:"anchor",attrs:{"id":"basic"}}),_c('span',[_v("Basic")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#basic","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Equivalence partitions (EPs) are usually derived from the specifications of the SUT.")])])}
@@ -29,6 +29,6 @@ with(this){return _c('span',{staticClass:"algolia-no-index",attrs:{"data-mb-slot
 with(this){return _c('span',{staticClass:"algolia-no-index",attrs:{"data-mb-slot-name":"content"}},[_c('div',[_c('div',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("isValidMonth(m)")]),_v(" : returns "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("true")]),_v(" if "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("m")]),_v(" (and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("int")]),_v(") is in the range [1..12]")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Thu, 15 Jul 2021, 22:13:46 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 24 Jul 2021, 12:43:15 GMT+8]")])])])}
 }];
   
