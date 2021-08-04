@@ -38,7 +38,7 @@ with(this){return _c('h4',{attrs:{"id":"w10-w11-iteration-2-v2-0"}},[_c('span',{
 with(this){return _c('h4',{attrs:{"id":"w12-iteration-3-v2-1"}},[_c('span',{staticClass:"anchor",attrs:{"id":"w12-iteration-3-v2-1"}}),_c('span',{staticClass:"badge badge-dark"},[_v("W12")]),_v("  Iteration 3 → v2.1"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#w12-iteration-3-v2-1","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('div',{attrs:{"tags":"m--cs2103 m--cs2113"}},[_c('ul',[_c('li',[_v("This iteration is "),_c('span',{staticClass:"text-danger"},[_v("shorter")]),_v(" (slightly more than one week).")]),_v(" "),_c('li',[_c('mark',[_c('strong',[_v("Adding new features is strongly discouraged")]),_v(" in this iteration.")]),_v(" Use it for bug fixing, code quality improvements, improving the tests, and polishing up documentation only.")])])])}
+with(this){return _c('div',{attrs:{"tags":"m--cs2103 m--cs2113"}},[_c('ul',[_c('li',[_v("This iteration is "),_c('span',{staticClass:"text-danger"},[_v("shorter")]),_v(" (slightly more than one week).")]),_v(" "),_c('li',[_c('mark',[_c('strong',[_v("Adding new features (or major changes to features) is strongly discouraged")]),_v(" in this iteration.")]),_v(" Use it for bug fixing, code quality improvements, improving the tests, and polishing up documentation only.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("The final submission")]),_v(" will be at the start of week 13. "),_c('a',{attrs:{"href":"/website/admin/tp-deliverables.html"}},[_v("Deliverables")]),_v(" include an executable jar file, a product website (containing both user and developer documentation), a demo video, among other things.")])}
@@ -50,6 +50,6 @@ with(this){return _c('div',{staticClass:"indented-level2",attrs:{"tags":"m--cs21
 with(this){return _c('p',[_c('span',{staticClass:"float-left algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/tp-expectations.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" tP (team project): Expectations")])])]),_c('span',{staticClass:"float-right algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/tp-constraints.html"}},[_c('span',[_v("tP: Constraints "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 24 Jul 2021, 12:43:15 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Wed, 4 Aug 2021, 15:53:55 GMT+8]")])])])}
 }];
   
