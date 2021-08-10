@@ -96,9 +96,8 @@
     },
     {
       "src": "admin/githubClassroomInfo.md",
-      "title": "Admin: Java exercises",
+      "title": "",
       "headings": {
-        "java-exercises": "Java exercises ",
         "github-classroom-prerequsites": "GitHub Classroom Prerequsites",
         "list-of-exercises": "List of exercises",
         "working-on-the-assignments": "Working on the assignments"
