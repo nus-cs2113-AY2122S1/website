@@ -72,11 +72,7 @@
         "tp-workflow": "tP Workflow",
         "tp-project-schedule-tracking": "tP Project Schedule Tracking",
         "using-issues": "Using Issues:",
-        "using-milestones": "Using Milestones:",
-        "getting-started-with-github-classroom": "Getting started with GitHub Classroom",
-        "registering-in-github-classroom": "Registering in GitHub Classroom",
-        "accepting-an-assignment-2": "Accepting an assignment",
-        "working-on-the-assignment-2": "Working on the assignment"
+        "using-milestones": "Using Milestones:"
       },
       "headingKeywords": {}
     },
@@ -365,7 +361,7 @@
         "tool-zoom-for-lectures": "Tool: Zoom (for Lectures)",
         "tool-github-for-code-hosting": "Tool: GitHub (for code hosting)",
         "tool-git-for-revision-control": "Tool: Git (for revision control)",
-        "tool-github-classrooms-for-coding-exercises": "Tool: Github Classrooms (for coding exercises)",
+        "tool-coursemology-for-coding-exercises": "Tool: Coursemology (for coding exercises)",
         "tools-for-communication": "Tools: for communication",
         "forum-for-longer-running-discussions": " Forum (for longer-running discussions)",
         "gitter-for-quick-chats": " Gitter (for quick chats)",
