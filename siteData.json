@@ -97,11 +97,7 @@
     {
       "src": "admin/githubClassroomInfo.md",
       "title": "",
-      "headings": {
-        "github-classroom-prerequsites": "GitHub Classroom Prerequsites",
-        "list-of-exercises": "List of exercises",
-        "working-on-the-assignments": "Working on the assignments"
-      },
+      "headings": {},
       "headingKeywords": {}
     },
     {

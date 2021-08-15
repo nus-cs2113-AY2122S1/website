@@ -540,3 +540,73 @@ Missing reference in D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\admin\githubC
 2021-08-10T12:49:27.878Z - info: Build success!
 2021-08-10T13:10:31.606Z - info: Website generation started at 9:10:25 pm
 2021-08-10T13:10:37.428Z - info: Building assets...
+2021-08-10T13:10:42.093Z - info: Assets built
+2021-08-10T13:10:42.094Z - info: Generating pages...
+2021-08-10T13:10:58.356Z - debug:  
+2021-08-10T13:10:58.356Z - debug:  
+2021-08-10T13:10:58.357Z - debug:  
+2021-08-10T13:10:58.357Z - debug:  
+2021-08-10T13:10:58.357Z - debug:  
+2021-08-10T13:10:58.431Z - debug:  
+2021-08-10T13:13:51.352Z - debug:  
+2021-08-10T13:14:10.558Z - debug:  
+2021-08-10T13:14:10.560Z - debug:  
+2021-08-10T13:14:16.663Z - error:  Error: No such segment '#githubclassroom-registering' in file: D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\admin\appendixE-gitHub.md
+Missing reference in D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\admin\githubClassroomInfo.md
+    at processInclude (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:225:23)
+    at NodeProcessor.processNode (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:147:16)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:289:20)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+2021-08-10T13:14:16.680Z - error:  Error: No such segment '#githubclassroom-accepting-assignment' in file: D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\admin\appendixE-gitHub.md
+Missing reference in D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\admin\githubClassroomInfo.md
+    at processInclude (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:225:23)
+    at NodeProcessor.processNode (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:147:16)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:289:20)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+2021-08-10T13:14:16.695Z - error:  Error: No such segment '#githubclassroom-workingon-assignment' in file: D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\admin\appendixE-gitHub.md
+Missing reference in D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\admin\githubClassroomInfo.md
+    at processInclude (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:225:23)
+    at NodeProcessor.processNode (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:147:16)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:289:20)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+2021-08-10T13:14:17.399Z - info: Pages built
+2021-08-10T13:14:18.467Z - info: Site data built
+2021-08-10T13:14:18.468Z - info: Website generation complete! Total build time: 233.046s
+2021-08-10T13:14:18.468Z - info: Build success!
+2021-08-10T13:14:41.106Z - info: Deployed at https://nus-cs2113-ay2122s1.github.io/website!
