@@ -182,7 +182,7 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_c('span',{staticClass:"badge b
 with(this){return _c('h4',{attrs:{"id":"ppp-format"}},[_c('span',{staticClass:"anchor",attrs:{"id":"ppp-format"}}),_c('span',{staticClass:"badge badge-info"},[_v("PPP")]),_v(" "),_c('span',{staticClass:"text-info"},[_v("Format")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#ppp-format","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("File name (i.e., in the repo): "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("docs/team/githbub_username_in_lower_case.md")]),_v(" e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("docs/team/goodcoder123.md")])]),_v(" "),_c('li',[_c('span',[_c('span',{staticClass:"fas fa-cube",attrs:{"aria-hidden":"true"}})]),_v(" Follow the "),_c('a',{attrs:{"href":"https://se-education.org/addressbook-level3/team/johndoe.html"}},[_v("example in the AddressBook-Level3")])])])}
+with(this){return _c('ul',[_c('li',[_v("File name (i.e., in the repo): "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("docs/team/github_username_in_lower_case.md")]),_v(" e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("docs/team/goodcoder123.md")])]),_v(" "),_c('li',[_c('span',[_c('span',{staticClass:"fas fa-cube",attrs:{"aria-hidden":"true"}})]),_v(" Follow the "),_c('a',{attrs:{"href":"https://se-education.org/addressbook-level3/team/johndoe.html"}},[_v("example in the AddressBook-Level3")])])])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"ppp-page-limit"}},[_c('span',{staticClass:"anchor",attrs:{"id":"ppp-page-limit"}}),_c('span',{staticClass:"badge badge-info"},[_v("PPP")]),_v(" "),_c('span',{staticClass:"text-info"},[_v("Page Limit")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#ppp-page-limit","onclick":"event.stopPropagation()"}})])}
@@ -242,6 +242,6 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("Plan the demo to be in sync
 with(this){return _c('p',[_c('span',{staticClass:"float-left algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/tp-w13.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" tP week 13: v2.1")])])]),_c('span',{staticClass:"float-right algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/tp-pe.html"}},[_c('span',[_v("tP: Practical Exam "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sun, 22 Aug 2021, 23:07:20 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sun, 22 Aug 2021, 23:28:25 GMT+8]")])])])}
 }];
   
