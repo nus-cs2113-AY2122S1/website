@@ -23,6 +23,6 @@ with(this){return _c('ul',[_c('li',[_v("Submit the coding exercises allocated fo
 with(this){return _c('ul',[_c('li',[_v("If you haven't done so already, follow the 'Preparation' instructions of the following panel, to get connected with the communication channels used by the module.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Mon, 23 Aug 2021, 16:25:51 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Wed, 25 Aug 2021, 12:12:07 GMT+8]")])])])}
 }];
   

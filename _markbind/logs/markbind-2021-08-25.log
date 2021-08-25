@@ -1,0 +1,121 @@
+2021-08-25T00:38:57.103Z - info: Website generation (lazy) started at 8:38:38 am
+2021-08-25T00:39:07.965Z - info: Building assets...
+2021-08-25T00:39:17.176Z - info: Assets built
+2021-08-25T00:39:17.178Z - info: Generating landing page...
+2021-08-25T00:39:18.019Z - error:  Template render error: (D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\index.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\index.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\index.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\index.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\index.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\index.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\index.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\index.md) [Line 1, Column 33]
+  parseAggregate: expected comma after expression
+    at Object._prettifyError (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:631:18), <anonymous>:621:3)
+    at Template.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:372:8)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:332:3)
+    at Environment.getTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at VariableProcessor.renderIncludeFile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:256:34)
+    at processInclude (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:206:25)
+2021-08-25T00:39:18.635Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-25T00:39:21.101Z - info: Site data built
+2021-08-25T00:39:21.102Z - info: Website generation (lazy) complete! Total build time: 42.881s
+2021-08-25T00:39:23.556Z - info: Serving "D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\_site" at http://127.0.0.1:8080
+2021-08-25T00:39:23.557Z - info: Press CTRL+C to stop ...
+2021-08-25T00:41:29.221Z - info: Building D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\week9\index as some of its dependencies were changed since the last visit
+2021-08-25T00:41:29.749Z - error:  Template render error: (D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\week9\index.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\week9\index.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\week9\index.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\week9\index.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\week9\index.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\week9\index.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\week9\index.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\week9\index.md)
+  Template render error: (D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\week9\index.md) [Line 1, Column 33]
+  parseAggregate: expected comma after expression
+    at Object._prettifyError (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:631:18), <anonymous>:29:3)
+    at Template.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:372:8)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:332:3)
+    at Environment.getTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at Page.generate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:469:37)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1167:22
+2021-08-25T00:41:29.754Z - warn:  Error: Error while generating undefined
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1175:18
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+2021-08-25T00:42:47.063Z - info: [8:42:47 am] Reload for file change: D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\_module-CS2113\weeklyTextbookTopics.mbdf
+2021-08-25T00:42:47.064Z - info: Synchronizing opened pages list before reload
+2021-08-25T00:42:47.066Z - info: Current opened pages, from most-to-least recent:
+2021-08-25T00:42:47.066Z - info: 1. schedule/week9/index
+2021-08-25T00:42:48.083Z - info: No pages needed to be rebuilt
+2021-08-25T00:44:38.483Z - info: Website generation (lazy) started at 8:44:38 am
+2021-08-25T00:44:48.887Z - info: Building assets...
+2021-08-25T00:44:57.330Z - info: Assets built
+2021-08-25T00:44:57.331Z - info: Generating landing page...
+2021-08-25T00:45:01.808Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-25T00:45:03.482Z - info: Site data built
+2021-08-25T00:45:03.483Z - info: Website generation (lazy) complete! Total build time: 25.083s
+2021-08-25T00:45:05.739Z - info: Serving "D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\_site" at http://127.0.0.1:8080
+2021-08-25T00:45:05.740Z - info: Press CTRL+C to stop ...
+2021-08-25T02:26:41.955Z - info: Building D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\week9\index as some of its dependencies were changed since the last visit
+2021-08-25T02:26:47.286Z - info: Site data built
+2021-08-25T02:26:47.288Z - info: Lazy website regeneration complete! Total build time: 5.332s
+2021-08-25T02:26:54.014Z - info: Building D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\week9\topics as some of its dependencies were changed since the last visit
+2021-08-25T02:27:07.915Z - info: Site data built
+2021-08-25T02:27:07.919Z - info: Lazy website regeneration complete! Total build time: 13.902s
+2021-08-25T02:27:09.750Z - debug:  
+2021-08-25T02:27:09.766Z - debug:  
+2021-08-25T02:27:09.846Z - debug:  
+2021-08-25T02:45:49.223Z - info: [10:45:49 am] Reload for file change: D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\_module-CS2113\weeklyTextbookTopics.mbdf
+2021-08-25T02:45:49.226Z - info: Synchronizing opened pages list before reload
+2021-08-25T02:45:49.229Z - info: Current opened pages, from most-to-least recent:
+2021-08-25T02:45:49.233Z - info: 1. schedule/week9/topics
+2021-08-25T02:45:50.257Z - info: Rebuilding 1 pages
+2021-08-25T02:45:55.344Z - info: Building D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\week8\index as some of its dependencies were changed since the last visit
+2021-08-25T02:46:01.276Z - debug:  
+2021-08-25T02:46:01.277Z - debug:  
+2021-08-25T02:46:01.277Z - debug:  
+2021-08-25T02:46:01.509Z - info: Site data built
+2021-08-25T02:46:01.510Z - info: Lazy website regeneration complete! Total build time: 6.187s
+2021-08-25T02:46:01.565Z - info: Site data built
+2021-08-25T02:46:01.566Z - info: Pages rebuilt
+2021-08-25T02:46:01.567Z - info: Website regeneration complete! Total build time: 11.312s
+2021-08-25T02:46:07.756Z - info: Building D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\week8\topics as some of its dependencies were changed since the last visit
+2021-08-25T02:46:14.114Z - info: Site data built
+2021-08-25T02:46:14.116Z - info: Lazy website regeneration complete! Total build time: 6.361s
+2021-08-25T02:46:16.592Z - debug:  
+2021-08-25T02:46:16.721Z - debug:  
+2021-08-25T02:47:10.028Z - info: [10:47:10 am] Reload for file change: D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\_module-CS2113\textbookTopics.mbdf
+2021-08-25T02:47:10.030Z - info: Synchronizing opened pages list before reload
+2021-08-25T02:47:10.031Z - info: Current opened pages, from most-to-least recent:
+2021-08-25T02:47:10.031Z - info: 1. schedule/week8/topics
+2021-08-25T02:47:11.179Z - info: Rebuilding 1 pages
+2021-08-25T02:47:16.742Z - info: Site data built
+2021-08-25T02:47:16.744Z - info: Pages rebuilt
+2021-08-25T02:47:16.745Z - info: Website regeneration complete! Total build time: 5.566s
+2021-08-25T02:47:18.679Z - debug:  
+2021-08-25T02:47:18.836Z - debug:  
+2021-08-25T04:03:37.202Z - info: Building D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\schedule\week9\index as some of its dependencies were changed since the last visit
+2021-08-25T04:03:39.348Z - info: Site data built
+2021-08-25T04:03:39.349Z - info: Lazy website regeneration complete! Total build time: 2.149s
+2021-08-25T04:11:55.873Z - info: Website generation started at 12:11:52 pm
+2021-08-25T04:12:01.647Z - info: Building assets...
