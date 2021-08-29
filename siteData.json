@@ -148,6 +148,7 @@
         "cs2113t-w12": "CS2113T-W12",
         "cs2113t-w13": "CS2113T-W13",
         "cs2113t-t09": "CS2113T-T09",
+        "cs2113t-t10": "CS2113T-T10",
         "cs2113t-t12": "CS2113T-T12",
         "cs2113-t13": "CS2113-T13",
         "cs2113-t14": "CS2113-T14",
@@ -155,7 +156,6 @@
         "cs2113t-f11": "CS2113T-F11",
         "cs2113t-f12": "CS2113T-F12",
         "cs2113t-f14": "CS2113T-F14",
-        "cs2113t-f14-2": "CS2113T-F14",
         "ip-showcase": "iP Showcase"
       },
       "headingKeywords": {}
@@ -327,6 +327,7 @@
         "cs2113t-w12": "CS2113T-W12",
         "cs2113t-w13": "CS2113T-W13",
         "cs2113t-t09": "CS2113T-T09",
+        "cs2113t-t10": "CS2113T-T10",
         "cs2113t-t12": "CS2113T-T12",
         "cs2113-t13": "CS2113-T13",
         "cs2113-t14": "CS2113-T14",
@@ -334,7 +335,6 @@
         "cs2113t-f11": "CS2113T-F11",
         "cs2113t-f12": "CS2113T-F12",
         "cs2113t-f14": "CS2113T-F14",
-        "cs2113t-f14-2": "CS2113T-F14",
         "tp-teams": "tP Teams"
       },
       "headingKeywords": {}
