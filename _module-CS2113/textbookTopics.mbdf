@@ -1513,7 +1513,7 @@
           },
           {
             name: "associationClasses",
-            priority: "4",
+            priority: "3",
             level_three_topics: [
               {name: "what", heading: "What", priority: "4"}
             ]
