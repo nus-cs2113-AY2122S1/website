@@ -145,8 +145,9 @@ During the tutorial, **demo your ability to do debugging using an IDE** by perfo
 <div id="demo-ip-using-jar">
 
 * Copy your iP jar file to an empty folder.
-* Launch the jar file using the command prompt and type a command.
-* Take a screenshot and paste in the _tutorial workspace_ document.
+* Launch the jar file using the command prompt.
+* Input the commands specified by your tutor.
+* Take screenshots and paste them in the _tutorial workspace_ document as instructed.
 </div>
 <!-- ------------------------------------------------------------------------------------------------------ -->
 <div id="setup-tp-org-repo">
