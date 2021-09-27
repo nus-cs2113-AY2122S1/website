@@ -17,7 +17,7 @@ with(this){return _c('div',[_c('div',{staticClass:"border border-success pt-0 pl
 with(this){return _c('ul',[_c('li',[_v("To be done in Zoom breakout rooms (per team).")]),_v(" "),_c('li',[_v("Set up the team org, team fork, individual forks as described below:")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('strong',[_v("[Each person] Verify that you know how to do the following")]),_v(" by performing each on hour computer and posting a screenshot in the "),_c('em',[_v("tutorial workspace")]),_v(" document:\n"),_c('ul',[_c('li',[_v("run the code in your IDE")]),_v(" "),_c('li',[_v("run I/O redirection tests")]),_v(" "),_c('li',[_v("verify compliance with the coding standard automatically using Gradle")])])])])}
+with(this){return _c('ul',[_c('li',[_c('strong',[_v("[Each person] Verify that you know how to do the following")]),_v(" by performing each on your computer and posting a screenshot in the "),_c('em',[_v("tutorial workspace")]),_v(" document:\n"),_c('ul',[_c('li',[_v("run the code in your IDE")]),_v(" "),_c('li',[_v("run I/O redirection tests")]),_v(" "),_c('li',[_v("verify compliance with the coding standard automatically using Gradle")])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("In this activity you will be using the forking workflow to do some simple updates to the code base")]),_v(" while working in parallel. The objective is to ensure you know how to follow the expected working in the tP. The steps are given below:")])}
@@ -41,6 +41,6 @@ with(this){return _c('ul',[_c('li',[_c('span',{staticClass:"badge badge-dark"},[
 with(this){return _c('div',[_c('div',{staticClass:"border border-success pt-0 pl-1 pr-1 border-top-0 rounded-bottom",staticStyle:{"background-color":"#e6fff2"}},[_c('p',[_c('span',{staticClass:"text-success"},[_c('small',[_c('strong',[_c('span',{staticClass:"far fa-hand-point-up",attrs:{"aria-hidden":"true"}})]),_v(" Follow up notes for the item(s) above:")])]),_c('br')]),_v(" "),_c('div',{staticClass:"indented"},[_c('p',[_v("The workflow you followed above is very safe but has a high-overhead. You may simplify your workflow (at your own risk) after following the above workflow for a while.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 21 Sep 2021, 23:07:40 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Mon, 27 Sep 2021, 16:56:30 GMT+8]")])])])}
 }];
   
