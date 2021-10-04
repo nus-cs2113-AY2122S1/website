@@ -107,6 +107,6 @@ with(this){return _c('p',[_v("We use the "),_c('a',{attrs:{"href":"http://teamma
 with(this){return _c('p',[_c('span',{staticClass:"float-left algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/peerEvaluations.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" Peer Evaluations")])])]),_c('span',{staticClass:"float-right algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/exams.html"}},[_c('span',[_v("Exams "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Mon, 27 Sep 2021, 16:56:30 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Mon, 4 Oct 2021, 12:02:18 GMT+8]")])])])}
 }];
   
