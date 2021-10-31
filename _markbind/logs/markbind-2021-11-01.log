@@ -1,0 +1,17 @@
+2021-10-31T16:00:28.100Z - debug:  
+2021-10-31T16:00:45.609Z - debug:  
+2021-10-31T16:00:45.609Z - debug:  
+2021-10-31T16:00:51.724Z - info: Pages built
+2021-10-31T16:00:52.774Z - info: Site data built
+2021-10-31T16:00:52.776Z - info: Website generation complete! Total build time: 180.32s
+2021-10-31T16:00:53.655Z - info: Serving "D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\_site" at http://127.0.0.1:8080
+2021-10-31T16:00:53.656Z - info: Press CTRL+C to stop ...
+2021-10-31T16:02:20.749Z - info: [12:02:20 am] Reload for file change: D:\Teaching\CS2113\_AY2122S1\AY2122S1-website\admin\tp-tasks.mbdf
+2021-10-31T16:02:21.771Z - info: Rebuilding 48 pages
+2021-10-31T16:02:45.766Z - debug:  
+2021-10-31T16:02:45.770Z - debug:  
+2021-10-31T16:03:36.336Z - info: Site data built
+2021-10-31T16:03:36.339Z - info: Pages rebuilt
+2021-10-31T16:03:36.339Z - info: Website regeneration complete! Total build time: 74.572s
+2021-10-31T16:06:01.155Z - info: Website generation started at 12:05:55 am
+2021-10-31T16:06:05.491Z - info: Building assets...
