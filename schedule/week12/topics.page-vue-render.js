@@ -29,12 +29,12 @@ with(this){return _c('div',[_c('div',[_c('div',{staticClass:"border border-succe
 with(this){return _c('div',{staticClass:"indented"},[_c('div')])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('div',[_c('div',{staticClass:"border border-success pt-0 pl-1 pb-1 pr-1 border-bottom-0 rounded-top",staticStyle:{"background-color":"#e6fff2"}},[_c('p',[_c('span',{staticClass:"text-success"},[_c('small',[_c('strong',[_c('span',{staticClass:"far fa-hand-point-down",attrs:{"aria-hidden":"true"}})]),_v(" Guidance for the item(s) below:")])]),_c('br')]),_v(" "),_c('div',{staticClass:"indented"},[_c('div',[_c('p',[_v("In "),_c('a',{attrs:{"href":"/website/week7/topics.html"}},[_v("a previous week")]),_v(", you learned about "),_c('em',[_v("sequential")]),_v(" and "),_c('em',[_v("iterative")]),_v(" ways of doing a software.\nNow, let us take a quick look at a couple of well-known processes used in the industry, both of which fall into a category called "),_c('em',[_v("agile processes")]),_v(".")])])])])])])}
+with(this){return _c('div',[_c('div',[_c('div',{staticClass:"border border-success pt-0 pl-1 pb-1 pr-1 border-bottom-0 rounded-top",staticStyle:{"background-color":"#e6fff2"}},[_c('p',[_c('span',{staticClass:"text-success"},[_c('small',[_c('strong',[_c('span',{staticClass:"far fa-hand-point-down",attrs:{"aria-hidden":"true"}})]),_v(" Guidance for the item(s) below:")])]),_c('br')]),_v(" "),_c('div',{staticClass:"indented"},[_c('div',[_c('p',[_v("In "),_c('a',{attrs:{"href":"/website/schedule/week2/topics.html"}},[_v("a previous week")]),_v(", you learned about "),_c('em',[_v("sequential")]),_v(" and "),_c('em',[_v("iterative")]),_v(" ways of doing a software.\nNow, let us take a quick look at a couple of well-known processes used in the industry, both of which fall into a category called "),_c('em',[_v("agile processes")]),_v(".")])])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticClass:"indented"},[_c('div')])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Mon, 1 Nov 2021, 0:06:09 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Mon, 1 Nov 2021, 8:06:35 GMT+8]")])])])}
 }];
   
