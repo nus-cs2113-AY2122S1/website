@@ -20,7 +20,7 @@ with(this){return _c('span',[_c('span',[_c('span',{staticClass:"fas fa-user",att
 with(this){return _c('span',{staticClass:"badge badge-secondary font-weight-normal"},[_c('span',[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}}),_v(" Mon, Nov 8th 2359")])])}
 },function anonymous(
 ) {
-with(this){return _c('li',[_c('strong',[_v("Deadline")]),_v(" for all v2.1 submissions is "),_c('strong',[_v("Sun, Nov 8th 23:59:00")]),_v(" unless stated otherwise. Note that "),_c('span',{staticClass:"text-danger"},[_v("23:59:01 is considered late")]),_v(", as per the LumiNUS deadline mechanism.")])}
+with(this){return _c('li',[_c('strong',[_v("Deadline")]),_v(" for all v2.1 submissions is "),_c('strong',[_v("Mon, Nov 8th 23:59:00")]),_v(" unless stated otherwise. Note that "),_c('span',{staticClass:"text-danger"},[_v("23:59:01 is considered late")]),_v(", as per the LumiNUS deadline mechanism.")])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_v("Even a one-second delay is considered late, irrespective of the reason.")]),_v(" "),_c('li',[_v("For submissions done via LumiNUS, the submission time is the timestamp shown by LumiNUS.")]),_v(" "),_c('li',[_v("When determining the late submission penalty, "),_c('strong',[_v("we take the latest submission")]),_v(" even if the same exact file was submitted earlier. Do not submit the same file multiple times if you want to avoid unnecessary late submission penalties.")]),_v(" "),_c('li',[_v("The whole team is penalized for problems in team submissions. Only the respective student is penalized for problems in individual submissions.")])])}
@@ -77,6 +77,6 @@ with(this){return _c('ul',[_c('li',[_v("Attend the practical test, to be done du
 with(this){return _c('p',[_c('span',{staticClass:"float-left algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/tp-w12.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" tP week 12: mid-v2.1")])])]),_c('span',{staticClass:"float-right algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/tp-deliverables.html"}},[_c('span',[_v("tP: Deliverables "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Mon, 1 Nov 2021, 8:06:35 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 2 Nov 2021, 11:25:45 GMT+8]")])])])}
 }];
   
