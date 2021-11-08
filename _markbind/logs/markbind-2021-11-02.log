@@ -1,2 +1,18 @@
 2021-11-02T03:25:33.118Z - info: Website generation started at 11:25:23 am
 2021-11-02T03:25:40.140Z - info: Building assets...
+2021-11-02T03:25:45.920Z - info: Assets built
+2021-11-02T03:25:45.921Z - info: Generating pages...
+2021-11-02T03:26:02.034Z - debug:  
+2021-11-02T03:26:02.035Z - debug:  
+2021-11-02T03:26:02.035Z - debug:  
+2021-11-02T03:26:02.036Z - debug:  
+2021-11-02T03:26:02.036Z - debug:  
+2021-11-02T03:26:02.802Z - debug:  
+2021-11-02T03:28:15.207Z - debug:  
+2021-11-02T03:28:33.604Z - debug:  
+2021-11-02T03:28:33.604Z - debug:  
+2021-11-02T03:28:39.584Z - info: Pages built
+2021-11-02T03:28:40.669Z - info: Site data built
+2021-11-02T03:28:40.670Z - info: Website generation complete! Total build time: 196.727s
+2021-11-02T03:28:40.671Z - info: Build success!
+2021-11-02T03:29:04.091Z - info: Deployed at https://nus-cs2113-ay2122s1.github.io/website!
