@@ -23,6 +23,6 @@ with(this){return _c('p',[_c('span',{staticStyle:{"opacity":"0.5"}},[_c('span',{
 with(this){return _c('p',[_c('span',{staticStyle:{"opacity":"0.5"}},[_c('span',{staticClass:"badge badge-pill badge-danger"},[_c('span',[_c('span',{staticClass:"fas fa-not-equal",attrs:{"aria-hidden":"true"}})])])]),_v(" "),_c('strong',[_v("Java uses the dot notation to invoke methods on an object too.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Mon, 8 Nov 2021, 13:00:24 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Wed, 10 Nov 2021, 12:02:45 GMT+8]")])])])}
 }];
   
