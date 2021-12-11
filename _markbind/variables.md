@@ -41,7 +41,7 @@
 <variable name="version_future">v3.0</variable>
 <variable name="example_team_id">{{ module }}-T09-2</variable>
 
-<variable name="date_final_submission">2020-11-08</variable>
+<variable name="date_final_submission">2021-11-08</variable>
 <variable name="ug_pages_per_person">1</variable>
 <variable name="dg_pages_per_person">3</variable>
 <variable name="uml_diagrams_per_person">2 types of</variable>
@@ -89,6 +89,7 @@
 <variable name="format_normal">ddd, MMM Do</variable>
 <variable name="format_full_day">dddd</variable>
 <variable name="day_lecture">{{ date_first_lecture | date(format_full_day) }}</variable>
+<variable name="date_w3_start">{{ date_w2_start | date("YYYY-MM-DD", 7) }}</variable>
 <variable name="date_w3_start">{{ date_w2_start | date("YYYY-MM-DD", 7) }}</variable>
 <variable name="date_w4_start">{{ date_w3_start | date("YYYY-MM-DD", 7) }}</variable>
 <variable name="date_w5_start">{{ date_w4_start | date("YYYY-MM-DD", 7) }}</variable>
