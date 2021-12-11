@@ -985,7 +985,7 @@ Also see:
 
 {{ embed_topic("tp-ped.mbdf#after-ped", "Admin " + icon_embedding + " tP → Deliverables → **After the PED**", "3", indent="2") }}
 
-2. **Note what is allowed in this milestone**:
+{% if cs2103 %}2. **Note what is allowed in this milestone**:{% endif %}
 
 <div class="indented" tags="m--cs2103 m--tic4002">
 <box type="warning" seamless>
